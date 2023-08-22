@@ -4,7 +4,7 @@
 
 Roblox Script Hub
 
-## Loader
+## Nexus: Loader
 
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Nexus/main/Loader.lua'))()
