@@ -48,6 +48,11 @@ do
         end
     })
 
+    Tabs.Player:AddParagraph({
+        Title = "Level 108 Code",
+        Content = "Code: 2059"
+    })
+
 	local ItemsDropdown = Tabs.ItemsTab:AddDropdown("Dropdown", {
         Title = "Select Item",
         Values = Items,
