@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Nexus/main/Games/' .. game.PlaceId .. ".lua"))()
